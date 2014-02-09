@@ -1,0 +1,6 @@
+name: TheSuitBan
+main: net.cubespace.thesuit.ban.TheSuitBanModule
+version: ${version}
+author: roblabla
+depends: ["TheSuitCore"]
+description: The ban manager that saves the day.
